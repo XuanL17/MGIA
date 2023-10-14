@@ -1,0 +1,4 @@
+ours folder contains the code of our proposed MGIA. baselines folder is the comparative method codes.
+
+We use the open sourced text8 corpus to train Word2Vec for the generation of word embeddings for text data.
+The pre-trained model is larger than 20MG, so it's exclude in this supplemental file
