@@ -15,6 +15,7 @@ In the meanwhile, MGIA verifies that multi-modality gradient inversion attacks a
 **MGIA Method**
 ![img.png](img.png)
 
+
 **MGIA Algorithm**
 ![img_2.png](img_2.png)
 
