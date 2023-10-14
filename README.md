@@ -12,9 +12,11 @@ In this paper, we propose the Mutual Gradient Inversion Attack (MGIA), by utiliz
 Our experimental results show that MGIA achieves the best quality of both modality data and label recoveries in comparison with other methods. 
 In the meanwhile, MGIA verifies that multi-modality gradient inversion attacks are more likely to disclose private information than the existing single-modality attacks.
 
-**MGIA Method**![img.png](img.png)
+**MGIA Method**
+![img.png](img.png)
 
-**MGIA Algorithm**![img_2.png](img_2.png)
+**MGIA Algorithm**
+![img_2.png](img_2.png)
 
 **Experiment Setup**
 Our experiments are conducted on popular image datasets
