@@ -13,6 +13,7 @@ Our experimental results show that MGIA achieves the best quality of both modali
 In the meanwhile, MGIA verifies that multi-modality gradient inversion attacks are more likely to disclose private information than the existing single-modality attacks.
 
 **MGIA Method**
+
 ![img.png](img.png)
 
 
