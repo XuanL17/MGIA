@@ -56,3 +56,10 @@ We also present two MGIA variant models:
 ### **Sample Results**  
 
 ![Sample Results](img_1.png)
+
+---
+
+### **Contact**  
+If you have any questions about the code, please feel free to contact:  
+- **Xuan Liu** at [xuan18.liu@polyu.edu.hk](mailto:xuan18.liu@polyu.edu.hk)  
+- **Siqi Cai** at [csiqi@whut.edu.cn](mailto:csiqi@whut.edu.cn)  
